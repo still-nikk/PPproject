@@ -460,7 +460,6 @@ int main()
     inv.list_options();
     cin >> choice;
     cout <<endl << endl;
-
     while(choice != 3)
     {
         if(choice == 1)
