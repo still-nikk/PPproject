@@ -22,6 +22,7 @@
 ### The system displays the available products with their details.
 ### The user can search for a specific product by entering its ID.
 ### The system checks the availability and provides product details.
+
 ### The code allows for efficient inventory management and provides a user-friendly way for shop owners to handle their bookshop operations.
 
 
